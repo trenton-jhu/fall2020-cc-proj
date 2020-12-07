@@ -1,0 +1,1 @@
+{"ecmp_hashed_mean_gbps": 37.37187225956761, "ecmp_hashed_stddev_gbps": 16.156659062009076, "ecmp_rr_mean_gbps": 2.98315821856882e-06, "ecmp_rr_stddev_gbps": 1.579298166905246e-06, "ecmp_random_mean_gbps": 4.355129195485605e-06, "ecmp_random_stddev_gbps": 2.1776248638889524e-06}
